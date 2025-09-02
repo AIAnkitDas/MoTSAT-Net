@@ -1,5 +1,5 @@
 # MoTSAT-Net
-Mobile Tri-level Scale-aware Attention-guided Transformer-based segmentation Network for Polyp Segmentation in Colonoscopy Frames
+## Mobile Tri-level Scale-aware Attention-guided Transformer-based segmentation Network for Polyp Segmentation in Colonoscopy Frames:-
 Prompt diagnosis and elimination of pre-malignant polyps can prevent Colorectal Cancer
 in patients. Therefore, semantic segmentation of polyps in colonoscopy frames is vital.
 Since endoscopists lack expertise, it is imperative to develop artificially-intelligent vision
