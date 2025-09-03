@@ -1,6 +1,6 @@
 # MoTSAT-Net
 ## This work is currently under review, submitted in part fulfilment of the requirements of the Degree of Master of Science at The University of Glasgow.
-## We look forward to publishing this original research work. Original code will be available post peer-review process and on receiving a publication decision.
+## We look forward to publishing this original research work - Original code will be available post peer-review process and on receiving a publication decision.
 
 ## Mobile Tri-level Scale-aware Attention-guided Transformer-based segmentation Network for Polyp Segmentation in Colonoscopy Frames:-
 Prompt diagnosis and elimination of pre-malignant polyps can prevent Colorectal Cancer
