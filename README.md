@@ -1,7 +1,7 @@
 # MoTSAT-Net
-## This work is currently under review, submitted in part fulfilment of the requirements of the Degree of Master of Science at The University of Glasgow.
-## The examiners at the University of Glasgow have exclusive access to the OneDrive repository which temporarily hosts the robust findings - this includes both quantitative as well as qualitative results along with Notebooks and model weights. I request the examiners to kindly refer to the Appendix A of my Dissertation for further details.
-## We look forward to publishing this original research work - Original code will be available post peer-review process and on receiving a publication decision.
+## This work is currently under review with IEEE Transactions on Automation Science and Engineering.
+
+## Original code will be available post peer-review process and on receiving a publication decision.
 
 ### MoTSAT-Net is a Polyp Segmentation Network which is trainable from scratch, and achieves SOTA performance on sophisticated Polyp datasets. It has MobileViT-integrated with novel TLS attention within a U-Net style Deep Neural Network, implemented using PyTorch.
 
