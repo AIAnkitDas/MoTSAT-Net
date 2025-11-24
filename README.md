@@ -1,5 +1,5 @@
 # MoTSAT-Net
-## This work is currently under review with IEEE Transactions on Automation Science and Engineering.
+## This work is currently under review with Expert Systems with Applications.
 
 ## Original code will be available post peer-review process and on receiving a publication decision.
 
