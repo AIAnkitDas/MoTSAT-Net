@@ -1,5 +1,5 @@
 # MoTSAT-Net
-## This work is currently under review with Expert Systems with Applications.
+## This work is currently under review with Bimedical Signal Processing and Control.
 
 ## Original code will be available post peer-review process and on receiving a publication decision.
 
