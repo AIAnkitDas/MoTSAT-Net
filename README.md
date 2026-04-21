@@ -1,5 +1,5 @@
 # MoTSAT-Net
-## This work is currently submitted to Journal of Medical Systems.
+## This work is currently submitted to Applied Intelligence.
 
 ## Original code will be available post peer-review process and on receiving a publication decision.
 
