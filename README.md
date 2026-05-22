@@ -1,5 +1,5 @@
 # MoTSAT-Net
-## This work is currently submitted to Applied Intelligence.
+## This work is currently submitted to Computers and Electrical Engineering.
 
 ## Original code will be available post peer-review process and on receiving a publication decision.
 
